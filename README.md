@@ -160,6 +160,7 @@
 - [Suricata](https://suricata.io/download/) : Un système de détection d'intrusion réseau.
 
 ## Analyse et de Collecte d'Informations
+- [Osint Tracker](https://www.osintracker.com) : Board de collecte d'information
 - [SpiderFoot](https://www.spiderfoot.net) : Un outil de collecte d'informations et d'analyse.
 - [Maltego](https://www.maltego.com) : Un outil d'exploration de données et de visualisation.
 - [theHarvester](https://github.com/laramies/theHarvester) : Un outil pour la collecte d'informations sur les courriels, les noms de domaine, les sous-domaines, etc.
